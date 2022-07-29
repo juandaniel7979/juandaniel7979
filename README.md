@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### About Me
-Hi, I'm develop for fun, I like a lot learn about new technologies, try new things, I always try to give my best effort
-
+Hi, I am a developer, I really like to learn about new technologies, and try new things, I think developing is fun, although sometimes it is  difficult, that's why I am always trying to improve, to make this my life project,
 <!--
 **juandaniel7979/juandaniel7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
