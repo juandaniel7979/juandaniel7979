@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+###About Me
+Hi, I'm develop for fun, I like a lot learn about new technologies, try new things, I always try to give my best effort
+
 <!--
 **juandaniel7979/juandaniel7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
